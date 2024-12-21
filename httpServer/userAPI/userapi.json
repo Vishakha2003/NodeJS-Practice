@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Vishakha Biradar",
+        "username":"_vish_",
+        "email": "vishb@gmail.com",
+        "phone": "9028818139",
+        "city": "Beed",
+        "pincode": "431122"    
+    },
+    {
+        "id": 2,
+        "name": "Ayush Bhalgat",
+        "username":"redkingdom",
+        "email": "ayuub@gmail.com",
+        "phone": "9881991390",
+        "city": "Pune",
+        "pincode": "411041"    
+    },
+    {
+        "id": 3,
+        "name": "Mayuri Bais",
+        "username":"Mayu_b",
+        "email": "mayuri@gmail.com",
+        "phone": "9000077788",
+        "city": "Akola",
+        "pincode": "400700"    
+    },
+    {
+        "id": 4,
+        "name": "Vedant Biradar",
+        "username":"ved45",
+        "email": "vedu45@gmail.com",
+        "phone": "9876543210",
+        "city": "Beed",
+        "pincode": "431122"    
+    }
+]
